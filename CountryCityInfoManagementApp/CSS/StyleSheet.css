@@ -1,0 +1,61 @@
+﻿body {
+    
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 850px;
+    padding: 20px;
+    background-color: lavender;
+}
+nav.container {
+    margin-top: 30px;
+}
+.first {
+    /*width: 650px;
+    /*height: 100px;*/
+    
+    padding: 15px;
+    margin: 10px;
+}
+.second {
+    /*width: 650px;
+    /*height: 100px;*/
+    background-color: gainsboro;
+    padding: 15px;
+    margin: 10px;
+}
+.middle {
+  /*width: 700px;*/
+    /*height: 300px;*/
+    background-color: lavender; 
+    padding: 15px;
+}
+footer {
+    /*height: 50px;*/
+    /*width: 700px;*/
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+    color: cornsilk
+}
+.table th, .table td { 
+     border-top: none !important; 
+ }
+
+.home {
+    text-align: center;
+    font-size: 40px;
+    background: url('../world_pol495.jpg');
+}
+.pic {
+    float: left;
+}
+.button {
+    margin-right: 50px;
+    float: right;
+}
+
+    
+
+ 
